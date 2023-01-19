@@ -1,7 +1,7 @@
 # SQL F1 MOOC Challenge
 
 --- 
-
+<img src="MarkusWinklerUnsplash.png" width="435" height="350" />
 
 ‣ Collaborated in a group of 3 to prepare, process, analyse and share insights from data using SQL as part of the MOOC challenge held by CFG in partnership with Cognizant Foundation. Data was taken from the Kaggle F1 dataset.
 
